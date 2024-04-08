@@ -2,10 +2,12 @@
 Propuesta TP DSW
 Grupo 1
 Integrantes
-legajo - Apellido(s), Nombre(s)
+
+
 50361 - Munné, Facundo
 50364 - Larroquette, Juan Bautista
 51358 - Colman, Geronimo
+
 Repositorios
 frontend app
 backend app Nota: si utiliza un monorepo indicar un solo link con fullstack app.
