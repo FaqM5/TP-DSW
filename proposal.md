@@ -4,9 +4,9 @@ Grupo 1
 Integrantes
 
 
-50361 - Munné, Facundo
-50364 - Larroquette, Juan Bautista
-51358 - Colman, Geronimo
+50361 - Munné Facundo,
+50364 - Larroquette Juan Bautista,
+51358 - Colman Geronimo,
 
 
 Tema
