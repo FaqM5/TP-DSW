@@ -20,5 +20,5 @@ imagen del modelo
 
 Nota: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con Mermaid en lugar de imágenes.
 
-Descripción: Aplicación con fin de gestión de una veterinaria. Ya sea turnos para diferentes tarea realizadas por el veterinario, turnos solicitados por el Cliente, posibilidad de la autogestión de la mascota por parte del cliente (añadir mascota)
+Descripción: Aplicación con fin de gestión de una veterinaria. Ya sea turnos para diferentes tarea realizadas por el veterinario, turnos solicitados por el Cliente, posibilidad de la autogestión de la mascota por parte del cliente (añadir mascota, editar estado). Contará con la existencia de 3 tipos de Cuenta: Cliente, Personal y Administrador con su respectivo inicio de sesión.
 
